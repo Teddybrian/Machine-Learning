@@ -9,3 +9,7 @@ Standardizes the 'charges' varaible
 Performs bivariate analysis on 'charges/age'
 Performs correlation matrix
 Produces a scatterplot of the variables in the dataset
+
+
+For the Linear Regression file, it performs the following:
+importing necessary libraries, loadds dataset, visualizes data using correlation matrix,encodes categorical data, splits dataset into Test and Training data, fits in multiple linear regression to the training data, predicts test data from results acquired, evaluated the model using R squared, Mean Abolute Error (MAE), Mean Squared Error (MSE) and Root Mean Squared Error (RMSE)
